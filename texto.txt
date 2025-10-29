@@ -1,4 +1,6 @@
-uno dos tres
+uno
+dos
 cuatro
 cinco
+seis
 
